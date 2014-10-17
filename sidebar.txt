@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pci:home|Door43 (pci)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pci|d43-pci repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pci/archive/master.zip|d43-pci.zip]]
+
+**Recent Changes**
+{{changes>ns = pci}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pci|Ethnologue data]]
+
